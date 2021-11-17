@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **Javascript Frameworks**
 
-- 🌱 I’m currently learning **IOS Development**
+- 🌱 I’m currently learning **GO**
 
 - 💬 Ask me anything about **Javascript**
 
