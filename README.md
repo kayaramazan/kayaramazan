@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramazan!</h1>
-<h3 align="center">Software Development Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p>I started programming when I realized that I had fun while solving algorithm questions, and I have been continuing with a never-ending sense of curiosity since then. I like to develop myself more in data structures, and at the same time, I try to use new technologies by taking part in various projects</p>
 
